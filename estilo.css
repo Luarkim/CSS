@@ -1,0 +1,81 @@
+:root {
+
+    --cor-fundo: rgb(153, 22, 22);
+
+    --alinhamento-titulo: center;
+
+  }
+
+ 
+
+  body {
+
+              color:whitesmoke;
+
+              background-color:grey;
+
+              /*font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif*/
+
+              font-size: 14px ;
+
+          }
+
+ 
+
+ 
+
+  h1, h2, h3,h4, h5, h6 {
+
+              color:hsla(235, 40%, 19%, 1);
+
+              text-align: center;
+
+              /*text-decoration:underline;
+
+              text-decoration-style: wavy;
+
+              text-decoration-thickness: 1px;
+
+              text-decoration-color: red*/
+
+            text-shadow: 10px 10px 3px rebeccapurple, -10px -10px 3px black
+
+          }
+
+  p{
+
+      text-indent: 50px;
+
+  }
+
+  strong {
+
+              color:black;
+
+              background-color: green;
+
+              font-style: italic;
+
+              font-weight: normal;
+
+              font-size: 1.5em;
+
+  }
+
+ 
+
+  #destaque {
+
+      background-color:darkslategrey;
+
+      text-align: right;
+
+  }
+
+ 
+
+   p.diferentao {
+
+      text-align: right;
+
+   }

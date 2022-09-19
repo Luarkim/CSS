@@ -1,0 +1,9 @@
+css inline -> nos atributos style dos elementos HTML
+
+
+
+css interno -> na tag style noi head do HTML
+
+
+
+css externo -> no arquivo .css acessado via tag link no head
